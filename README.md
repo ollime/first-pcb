@@ -3,21 +3,13 @@ A PCB that has a button to light up two LEDs and another button that vibrates a 
 Features some of my favorite emojis at https://fonts.google.com/noto/specimen/Noto+Emoji
 
 ## Schematic
-
-![Schematic](/assets/schematic.png)
+<img src="/assets/schematic.png" height="500">
 
 ## PCB
-
-Front
-![PCB front](/assets/pcb_front.png)
-
-Back
-![PCB back](/assets/pcb_back.png)
+<img src="/assets/pcb_front.png" height="500"><img src="/assets/pcb_back.png" height="500">
 
 ## 3D Model
-
-![Model front](/assets/3d_view_front.png)
-![Model back](/assets/3d_view_back.png)
+<img src="/assets/3d_view_front.png" height="500"><img src="/assets/3d_view_back.png" height="500">
 
 ## BOM
 
