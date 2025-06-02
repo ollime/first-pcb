@@ -8,11 +8,16 @@ Features some of my favorite emojis at https://fonts.google.com/noto/specimen/No
 
 ## PCB
 
-![PCB](/assets/pcb.png)
+Front
+![PCB front](/assets/pcb_front.png)
+
+Back
+![PCB back](/assets/pcb_back.png)
 
 ## 3D Model
 
-![Model](/assets/3d_view.png)
+![Model front](/assets/3d_view_front.png)
+![Model back](/assets/3d_view_back.png)
 
 ## BOM
 
